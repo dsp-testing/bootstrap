@@ -1,13 +1,14 @@
+/**
+ * --------------------------------------------------------------------------
+ * Bootstrap (v5.0.2): util/template-factory.js
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ * --------------------------------------------------------------------------
+ */
+
 import { DefaultAllowlist, sanitizeHtml } from './sanitizer'
 import { getElement, isElement, typeCheckConfig } from '../util/index'
 import SelectorEngine from '../dom/selector-engine'
 
-/**
- * --------------------------------------------------------------------------
- * Bootstrap (v5.0.1): util/template-factory.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- * --------------------------------------------------------------------------
- */
 const NAME = 'TemplateFactory'
 const Default = {
   appendFunction: null,
