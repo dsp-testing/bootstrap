@@ -1,6 +1,6 @@
 /**
  * --------------------------------------------------------------------------
- * Bootstrap (v5.0.1): util/messages.js
+ * Bootstrap (v5.0.2): util/messages.js
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
